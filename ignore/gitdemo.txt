@@ -1,3 +1,4 @@
  a change is made in file1
 
  A
+hello
